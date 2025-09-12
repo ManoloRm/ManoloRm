@@ -8,4 +8,4 @@ Durante la carrera empece a despertar una pasion o gusto por el control de calid
 Skills 🛠 Phyton | C# | postman | AndroidStudio | SQL | Exel | Blender | Maya | SubstancePainter 🛠
 
 
-[linkedIn](https://www.linkedin.com/in/manuel-andrés-rodríguez-98ab75238/)
+[linkedIn](https://www.linkedin.com/in/manuelrodriguez-qa)

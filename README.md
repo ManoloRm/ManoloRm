@@ -4,9 +4,13 @@
 <Br>
 <h1>About Me! 😎</h1>
 - 🏫: I'm a videogame designer and QA engineer.
+<br>
 - 🔭: I’m currently work teaching programing in c#, and 3D animation.
+<br>
 - 🌱: I’m currently learning and apply my knowledge like a qa engineer to grow my experience. 🧠💻🤖
+<br>
 - 💬: Ask me about QA like manual testing, automatization, and develop bug documents. 📊📈🤖🧠
+<br>
 - ⚡  Fun fact: I play videogames, movies and music.
   
 <hr>

@@ -1,11 +1,8 @@
-
 <img width="1370" height="342" alt="image" src="https://github.com/user-attachments/assets/2e7c4d89-bae4-4dd1-84cd-5be1fa85d096" />
-
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Manuel Rodríguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="left">I'm <a href="https://github.com/Aryagm">Manuel Rodríguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
-
 - 🏫: I'm a videogame designer and QA engineer.
 - 🔭: I’m currently work teaching programing in c#, and 3D animation.
 - 🌱: I’m currently learning and apply my knowledge like a qa engineer to grow my experience. 🧠💻🤖
@@ -14,7 +11,7 @@
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Contact! 📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/manuelrodriguez-qa" target="blank"><img align="center" src="https://img.shields.io/badge/in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:manu_rm29@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/manu_rm29@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
@@ -23,12 +20,11 @@
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">Skills! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+<h1 alig = "center"> | SQL| Phyton | C# | Selenium | Pycharm | CMD | Android Studio | Postman|
+
   
   
 <Br>

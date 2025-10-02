@@ -1,6 +1,6 @@
 <img width="1370" height="342" alt="image" src="https://github.com/user-attachments/assets/2e7c4d89-bae4-4dd1-84cd-5be1fa85d096" />
 <hr>
-<h1 align="left">I'm <a href="https://github.com/Aryagm">Manuel Rodríguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="left">I'm <a">Manuel Rodríguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 - 🏫: I'm a videogame designer and QA engineer.

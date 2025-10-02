@@ -14,26 +14,28 @@
 - ⚡  Fun fact: I play videogames, movies and music.
   
 <hr>
-<Br>
+
 <h1 align="center">Contact! 📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/manuelrodriguez-qa" target="blank"><img align="center" src="https://img.shields.io/badge/in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:manu_rm29@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/manu_rm29@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
 </p>
   
-<Br>
+
 <hr>
 <Br>
 <h1 align="center">Skills! 🤸‍♂</h1>
 <Br>
-  
-| SQL| Phyton | C# | CMD | HTML | CSS | Automatic web testing | Manual testing
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,css,cs,cpp,figma)](https://skillicons.dev)
+<br>
+<br>
+| SQL| Phyton | C# | CMD | HTML | CSS | Automatic web testing | Manual testing | figma
 
   
   
 <Br>
-<Br>
-<h1 align ="center" > Tools I use! 🛠️</h1>
+<h1 align ="center" > Tools! 🛠️</h1>
 <Br>
  
 | Postman | Pycharm | Android studio | Selenium | 
